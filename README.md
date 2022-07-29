@@ -41,9 +41,10 @@ See requirements.txt for list of all libaries used.
 3. san_francisco_housing.ipynb
 4. README.md
 5. Resources
-   housing_per_year.csv
-   neighborhoods_coordinates.csv
-   sfo_neighborhoods_census_data.csv
+
+      housing_per_year.csv
+      neighborhoods_coordinates.csv
+      sfo_neighborhoods_census_data.csv
 
 ------------
 
