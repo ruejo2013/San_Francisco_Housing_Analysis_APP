@@ -67,8 +67,11 @@ See requirements.txt for list of all libaries used.
 
 
 
+
 ![alt text](Images/how_to_run.png)
 
+
+This will run the notebook.
 
 
 -----------------------------
