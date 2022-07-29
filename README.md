@@ -65,8 +65,9 @@ See requirements.txt for list of all libaries used.
     
 3. Open the financial_planning_tools.ipynb on jupyterlab in the conda env just activated.
 
-![alt text](Images/analysis_san_fransico.png)
 
+
+![alt text](Images/how_to_run.png)
 
 
 
